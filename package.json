@@ -1,0 +1,7 @@
+{
+	"name": "serve-static-test",
+	"version": "1.0.0",
+    "dependencies": {
+        "serve-static": "1.7.1"
+    }
+}
